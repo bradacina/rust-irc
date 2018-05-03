@@ -1,0 +1,7 @@
+[package]
+name = "irc"
+version = "0.1.0"
+authors = ["Bogdan.Radacina <bogdan.radacina@zipmoney.com.au>"]
+
+[dependencies]
+mio=""
